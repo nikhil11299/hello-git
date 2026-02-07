@@ -1,5 +1,6 @@
 def greet(name):
-    return f"Hello, {name}!"
+    return f"Hello, {name}! 👋"
+
 def greet_formally(name):
     return f"Good day, {name}. Welcome."
 
